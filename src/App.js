@@ -48,12 +48,12 @@ try {
 }
 
 const khistiJokes = [
-    "Amader Khanki Pur e maal eseche! Chudte Jabo ami tumi !",
-    "Rod vora dupure Pod mare kukure",
-    "Sedin dujone chudechilo boone, Chochabar jol chilonaaaa",
-    "Poltur Pod, Gaar e guje chod",
-    "Ghungru pore tomai debo sutki macher pod",
-    "Ei group er naam 'Silent Library' holei bhalo hoto.",
+    "I would love to invite you to a diddy party !",
+    "It's a shame cannibalism is illegal Cause you're a snacc",
+    "Wassup Broke Boy 👦",
+    "তুমি কি ফ্রীজ কারন তোমাকে আমি খুলে খেতে চাই",
+    "I'm no photographer, but I can definitely picture you and me together.",
+    "Hey girl are you mexican, 'cause you illegally came into my mind.",
     "Ja reply dili, Google o search kore peto na.",
     "Tor logic er pashe ami ekta bari banabo, tar naam debo 'Illogical'.",
 ];
